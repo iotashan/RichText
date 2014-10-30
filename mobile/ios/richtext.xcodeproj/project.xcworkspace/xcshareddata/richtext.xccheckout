@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>44646D72-7C5D-4780-A577-E6ADA116FE6D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>richtext</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0620EED4CC5279008ADF2630A9341F5025A30622</key>
+		<string>github.com:pegli/RichText.git</string>
+		<key>2CC69C7EFC439AC727F09E33B49EFBD1D2365CBA</key>
+		<string>https://github.com/pegli/DTCoreText</string>
+		<key>F501F6253A6AEB746530F92C6B0EA8E3AD06410B</key>
+		<string>https://github.com/Cocoanetics/DTFoundation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mobile/ios/richtext.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0620EED4CC5279008ADF2630A9341F5025A30622</key>
+		<string>../../../..</string>
+		<key>2CC69C7EFC439AC727F09E33B49EFBD1D2365CBA</key>
+		<string>../../../..mobile/ios/vendor/DTCoreText</string>
+		<key>F501F6253A6AEB746530F92C6B0EA8E3AD06410B</key>
+		<string>../../../..mobile/ios/vendor/DTCoreText/Core/Externals/DTFoundation</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:pegli/RichText.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0620EED4CC5279008ADF2630A9341F5025A30622</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2CC69C7EFC439AC727F09E33B49EFBD1D2365CBA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DTCoreText</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F501F6253A6AEB746530F92C6B0EA8E3AD06410B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DTFoundation</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0620EED4CC5279008ADF2630A9341F5025A30622</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RichText</string>
+		</dict>
+	</array>
+</dict>
+</plist>
